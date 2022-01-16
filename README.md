@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anderlahi
 - 👀 I’m interested in HW design and Embedded Systems programming.
 - 🌱 I’m currently learning about Embedded Systems schematics design.
-- 💞️ I’m looking to collaborate on geek projects cocnerning Embedded Systems.
+- 💞️ I’m looking to collaborate on geek projects concerning Embedded Systems.
 
 
 <!---
